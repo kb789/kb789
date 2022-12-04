@@ -10,8 +10,6 @@
   <img width="260" height="105" align="left" src="https://github.com/kb789/kb789/blob/main/music.png" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kb789)](https://github.com/kb789/github-readme-stats)
-
 <!--### :woman_technologist: About Me : 
 
 **kb789/kb789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

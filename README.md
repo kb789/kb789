@@ -4,11 +4,11 @@
   <img align="left" width="260" height="105" src="https://github.com/kb789/kb789/blob/main/bookcloud.png" />
 </a>
 <a href="https://job-board-xi.vercel.app/">
-  <img align="center" width="260" height="105" src="https://github.com/kb789/kb789/blob/main/job.png" />
+  <img align="right" width="260" height="105" src="https://github.com/kb789/kb789/blob/main/job.png" />
 </a>
-<a href="https://heartfelt-bonbon-fe9616.netlify.app/">
+<!--<a href="https://heartfelt-bonbon-fe9616.netlify.app/">
   <img width="260" height="105" align="right" src="https://github.com/kb789/kb789/blob/main/music.png" />
-</a>
+</a>-->
 
 
 

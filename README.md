@@ -1,7 +1,7 @@
 <a href="https://62f9c18dd35b2b721f7f8a30--ephemeral-treacle-8f3661.netlify.app/">
   <img align="left" width="260" height="105" src="https://github.com/kb789/kb789/blob/main/bookcloud.png" />
 </a>
-<a href="https://62f9c18dd35b2b721f7f8a30--ephemeral-treacle-8f3661.netlify.app/">
+<a href="https://job-board-xi.vercel.app/">
   <img align="right" width="260" height="105" src="https://github.com/kb789/kb789/blob/main/job.png" />
 </a>
 <!--### :woman_technologist: About Me : 

@@ -7,7 +7,7 @@
   <img align="left" width="260" height="105" src="https://github.com/kb789/kb789/blob/main/job.png" />
 </a>
 <a href="https://heartfelt-bonbon-fe9616.netlify.app/">
-  <img width="260" height="105" align="right" src="https://github.com/kb789/kb789/blob/main/music.png" />
+  <img width="260" height="105" align="left" src="https://github.com/kb789/kb789/blob/main/music.png" />
 </a>
 
 
